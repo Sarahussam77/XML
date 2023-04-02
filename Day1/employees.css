@@ -1,0 +1,27 @@
+employees {
+  background-color: white;
+text-align:center;
+margin-top:10%;
+}
+employee {
+  display: block;
+  margin-bottom: 30pt;
+  margin-left: 0pt;
+}
+name {
+  display: block;
+  color: red;
+  font-size: 30px;
+}
+phone {
+  display: block;
+  color: blue;
+  font-size: 25px;
+}
+address {
+  display: block;
+  font-size: 20px;
+}
+email{
+color:green;
+}

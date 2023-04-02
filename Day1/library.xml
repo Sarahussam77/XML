@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+  <location>1, Main St</location>
+  <description>library of all books.</description>
+  <librarian>jane</librarian>
+  <books>
+    <book>
+      <title> Book_1</title>
+      <isbn>1</isbn>
+      <author>sara</author>
+      <preface>This is the preface of the example book.</preface>
+      <parts>
+        <part>
+          <title>Part 1</title>
+          <chapters>
+            <chapter>
+              <title>Chapter 1</title>
+              <summary>summary of chapter 1.</summary>
+              <sections>
+                <section>
+                  <paragraph>Welcome to the first section of the book.</paragraph>
+                </section>
+                <section>
+                  <paragraph>This section is the second.</paragraph>
+                  
+                </section>
+              </sections>
+            </chapter>
+            <chapter>
+              <title>Chapter 2</title>
+              <summary>This chapter is the second in the book.</summary>
+              <sections>
+                <section>
+                  <paragraph>first section.</paragraph>
+                  
+                </section>
+              </sections>
+            </chapter>
+          </chapters>
+        </part>
+      </parts>
+    </book>
+  </books>
+</library>
